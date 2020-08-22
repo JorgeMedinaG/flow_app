@@ -1,0 +1,6 @@
+framework module mdns_plugin {
+  umbrella header "mdns_plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}
