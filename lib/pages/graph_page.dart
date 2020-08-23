@@ -7,6 +7,8 @@ import 'package:progress_dialog/progress_dialog.dart';
 import 'package:econatu/src/network_services.dart';
 import 'package:econatu/src/db_provider.dart';
 
+import '../src/db_provider.dart';
+
 
 final _darkgreen = Color.fromRGBO(51, 102, 0, 1);
 
@@ -180,6 +182,7 @@ class _GraphPageState extends State<GraphPage> {
   _createMonthlyChart() async {
 
     var res; 
+    // DBProvider.db.createTestData();
     final result = await DBProvider.db.getMonthlyData();
     if (result["ok"]){
       res = result["res"];
