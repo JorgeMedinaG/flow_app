@@ -6,9 +6,8 @@
 * Supports Google, Facebook and Instagram login.
 
 ## ScreenShots
-(/images/splash.png)
-(/images/signin.png)
-(/images/devices.png)
-(/images/hours.png)
-(/images/month.png)
-(/images/days.png)
+<img src="https://github.com/JorgeMedinaG/flow_app/blob/master/images/splash.png" height="400" ><img src="https://github.com/JorgeMedinaG/flow_app/blob/master/images/signin.png" height="400" >
+<img src="https://github.com/JorgeMedinaG/flow_app/blob/master/images/devices.png" height="400" >
+<img src="https://github.com/JorgeMedinaG/flow_app/blob/master/images/hours.png" height="400" >
+<img src="https://github.com/JorgeMedinaG/flow_app/blob/master/images/month.png" height="400" >
+<img src="https://github.com/JorgeMedinaG/flow_app/blob/master/images/days.png" height="400" >
